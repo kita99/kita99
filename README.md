@@ -52,7 +52,7 @@ I'm a 21 year old passionate hacker & developer.
 </p>
 
 
-##  Connect with me :speech_balloon:
+##  Connect with me 🔌
 
 <p align="left">
   <img href="https://www.linkedin.com/in/adrian-dinis-5b8110143/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
