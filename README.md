@@ -2,7 +2,7 @@
 
 I'm a 21 year old passionate hacker & developer.
 
-- Portuguese 🇵🇹
+- 🇵🇹 Portuguese 
 - 📒 Currently studying CyberSecurity @ Instituto Politécnico de Bragança
 
 
