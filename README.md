@@ -2,9 +2,7 @@
 
 I'm a 21 year old passionate hacker & developer.
 
-- 🇵🇹 Portuguese 
-- 📒 Currently studying CyberSecurity @ Instituto Politécnico de Bragança
-
+- 🇵🇹 Portuguese
 
 
 ![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=kita99&theme=tokyonight&show_icons=true)
