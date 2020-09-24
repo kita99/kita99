@@ -56,6 +56,6 @@ I'm a 21 year old passionate hacker & developer.
    <a href="https://www.linkedin.com/in/adrian-dinis-5b8110143/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <img src="https://img.shields.io/badge/KiTA%237465-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
    <a href="mailto:adriandinis99@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-   <a href="http://blog.adriandinis.com"><img src="https://img.shields.io/badge/hackazine-%23000000.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>
+   <a href="https://blog.adriandinis.com"><img src="https://img.shields.io/badge/hackazine-%23000000.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>
    <a href="https://blog.adriandinis.com/feeds/all.atom.xml"><img src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white" /></a>
 </p>
