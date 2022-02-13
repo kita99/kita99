@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 23 year old passionate hacker & developer.
+I'm a 23 year old passionate tinkerer of all things technology.
 
 - 🇵🇹 Portuguese
 
