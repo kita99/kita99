@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 23 year old passionate tinkerer of all things technology.
+I'm a 24 year old passionate tinkerer of all things technology.
 
 - 🇵🇹 Portuguese
 
